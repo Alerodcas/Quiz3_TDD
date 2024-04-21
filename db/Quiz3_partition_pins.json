@@ -1,0 +1,33 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ledLight",
+					"strict" : false
+				},
+				{
+					"name" : "btnEntry",
+					"strict" : false
+				},
+				{
+					"name" : "btn0",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "btn1",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

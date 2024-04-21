@@ -1,0 +1,19 @@
+
+State Machine - |Quiz3|estado_actual
+Name estado_actual.STATE_15 estado_actual.STATE_14 estado_actual.STATE_13 estado_actual.STATE_12 estado_actual.STATE_11 estado_actual.STATE_10 estado_actual.STATE_9 estado_actual.STATE_8 estado_actual.STATE_7 estado_actual.STATE_6 estado_actual.STATE_5 estado_actual.STATE_4 estado_actual.STATE_3 estado_actual.STATE_2 estado_actual.STATE_1 estado_actual.STATE_0 
+estado_actual.STATE_0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+estado_actual.STATE_1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+estado_actual.STATE_2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+estado_actual.STATE_3 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+estado_actual.STATE_4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+estado_actual.STATE_5 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+estado_actual.STATE_6 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+estado_actual.STATE_7 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+estado_actual.STATE_8 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+estado_actual.STATE_9 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+estado_actual.STATE_10 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+estado_actual.STATE_11 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+estado_actual.STATE_12 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+estado_actual.STATE_13 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+estado_actual.STATE_14 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+estado_actual.STATE_15 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
